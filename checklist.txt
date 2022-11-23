@@ -1,0 +1,14 @@
+Nb	Quality assurance tasks		completed	comments
+	Smoke test			
+1	Install aplication		passed	
+2	Application launch		passed	
+3	Вызов гамбург меню		passed	
+4	Add new list		passed	
+5	named list		passed	
+6	add task		passed	
+7	Mak task		passed	
+8	Return the previous page with lists		passed	done with the arrow in the top left corner of the app
+9	Drag list to rhe right to delete		passed	
+10	Drag task to rhe right to delete		passed	
+11	Hide application		passed	
+12	Remove aplication		passed	
